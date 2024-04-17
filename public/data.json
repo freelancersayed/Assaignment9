@@ -1,0 +1,131 @@
+
+  [
+      {
+        "id": 1,
+        "image": "https://i.ibb.co/bQb3gyy/1.jpg",
+        "title": "Modern City Apartment",
+        "segment": "Residential",
+        "description": "Beautifully designed apartment in the heart of downtown, with stunning Experience the epitome of urban living in our modern city apartment. Situated in the heart of a bustling metropolis, this apartment combines sleek design with convenience. Enjoy stunning skyline views from floor-to-ceiling windows, relax in contemporary furnishings, and cook gourmet meals in a fully-equipped kitchen. With nearby access to trendy cafes, cultural attractions, and public transit, this apartment is perfect for cosmopolitan adventurers seeking a vibrant city lifestyle.city views.",
+        "price": "$650,000",
+        "status": "For Sale",
+        "area": "1200 Sq Ft",
+        "location": "Downtown, Metropolis",
+        "facilities": ["Living Room", "Kitchen", "Balcony"],
+        "button": {
+          "text": "View Property",
+          "link": "https://example.com/properties/1001"
+        }
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/KNHpMSk/2.png",
+        "title": "Cozy Suburban Home",
+        "segment": "Residential",
+        "description": "Welcome to your cozy suburban retreat, nestled in a tranquil neighborhood. This charming home offers a peaceful escape from city life while providing modern comforts. Relax in the lush backyard garden, unwind by the fireplace in the inviting living room, and savor home-cooked meals in the well-appointed kitchen. Ideal for families or couples seeking a quiet haven, this home offers easy access to local parks, schools, and amenities, making it an idyllic spot for relaxation and rejuvenation. for raising kids.",
+        "price": "$450,000",
+        "status": "For Sale",
+        "area": "2200 Sq Ft",
+        "location": "Suburbia, Smalltown",
+        "facilities": ["3 Bedrooms", "2 Bathrooms", "Backyard"],
+        "button": {
+          "text": "View Property",
+          "link": "https://example.com/properties/2002"
+        }
+      },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/KDt1bkt/3.jpg",
+        "title": "Luxury Beachfront Villa",
+        "segment": "Residential",
+        "description": "Elegant villa with direct beach access, featuring spacious interiors and Indulge in pure luxury at our beachfront villa, where breathtaking ocean views and lavish amenities await. This stunning retreat features spacious living areas, private balconies overlooking the sea, and direct beach access for leisurely strolls and water activities. Pamper yourself with spa-like bathrooms, gourmet dining options, and personalized concierge services. Perfect for discerning travelers seeking unparalleled elegance and tranquility by the sea, this villa promises an unforgettable coastal escape. a private pool.",
+        "price": "$1,800,000",
+        "status": "For Sale",
+        "area": "4000 Sq Ft",
+        "location": "Oceanfront, Paradise Cove",
+        "facilities": ["5 Bedrooms", "Swimming Pool", "Ocean Views"],
+        "button": {
+          "text": "View Property",
+          "link": "https://example.com/properties/3003"
+        }
+      },
+      {
+        "id": 4,
+        "image": "https://i.ibb.co/h9P0y8j/4.jpg",
+        "title": "Rustic Mountain Cabin",
+        "segment": "Residential",
+        "description": "Quaint cabin nestled in the mountains, offering a peaceful retreat surrounded by nature. Escape to nature in our rustic mountain cabin, surrounded by scenic beauty and serenity. This cozy retreat boasts wooden interiors, a crackling fireplace, and panoramic views of towering peaks. Experience outdoor adventures like hiking, skiing, or simply relaxing on the porch with a book. Disconnect from the hustle and bustle of everyday life and reconnect with nature in this charming cabin, ideal for outdoor enthusiasts and those seeking peaceful solitude.",
+        "price": "$300,000",
+        "status": "For Sale",
+        "area": "1500 Sq Ft",
+        "location": "Mountain Valley, Wilderness",
+        "facilities": ["1 Bedroom", "Fireplace", "Deck"],
+        "button": {
+          "text": "View Property",
+          "link": "https://example.com/properties/4004"
+        }
+      },
+      {
+        "id": 5,
+        "image": "https://i.ibb.co/JzqJmz9/5.jpg",
+        "title": "Contemporary Urban Loft",
+        "segment": "Residential",
+        "description": "Spacious loft apartment with industrial chic design elements, located in a vibrant urban area. Immerse yourself in urban sophistication at our contemporary loft, featuring industrial-chic aesthetics and open-plan living. With high ceilings, exposed brick walls, and designer furnishings, this loft offers a stylish retreat in the heart of the city. Enjoy walking distance to galleries, restaurants, and nightlife, then return to a sleek, comfortable space perfect for urban explorers and creative souls looking for a unique stay.",
+        "price": "$750,000",
+        "status": "For Sale",
+        "area": "1800 Sq Ft",
+        "location": "City Center, Metroville",
+        "facilities": ["Open Plan Layout", "Exposed Brick", "Roof Terrace"],
+        "button": {
+          "text": "View Property",
+          "link": "https://example.com/properties/5005"
+        }
+      },
+      {
+        "id": 6,
+        "image": "https://i.ibb.co/mF9S9md/6.jpg",
+        "title": "Classic Colonial Estate",
+        "segment": "Residential",
+        "description": "Historic colonial-style mansion surrounded by lush gardens, offering a timeless elegance. Step back in time at our classic colonial estate, steeped in history and elegance. This meticulously restored property features period architecture, refined interiors, and sprawling gardens. Relax on the veranda, explore antique-filled rooms, and dine in a formal dining hall reminiscent of a bygone era. Ideal for history enthusiasts and those seeking a taste of refined luxury, this estate offers a unique blend of old-world charm and modern comfort.",
+        "price": "$2,500,000",
+        "status": "For Sale",
+        "area": "6000 Sq Ft",
+        "location": "Estate District, Heritageville",
+        "facilities": ["Grand Foyer", "Formal Dining Room", "Library"],
+        "button": {
+          "text": "View Property",
+          "link": "https://example.com/properties/6006"
+        }
+      },
+      {
+        "id": 7,
+        "image": "https://i.ibb.co/QKcNJX1/8.jpg",
+        "title": "Family-Friendly Townhouse",
+        "segment": "Residential",
+        "description": "Spacious townhouse with multiple levels, ideal for a growing family, in a friendly neighborhood. Make unforgettable family memories in our welcoming townhouse, designed with families in mind. This spacious yet cozy retreat offers multiple bedrooms, a fully equipped kitchen, and a playroom for children. Explore nearby parks, museums, and family-friendly attractions, then return to a comfortable home base with ample space for everyone. Perfect for family vacations or extended stays, this townhouse is a haven for bonding and relaxation.",
+        "price": "$550,000",
+        "status": "For Sale",
+        "area": "2000 Sq Ft",
+        "location": "Town Center, Pleasantville",
+        "facilities": ["3 Bedrooms", "Garage", "Community Park Access"],
+        "button": {
+          "text": "View Property",
+          "link": "https://example.com/properties/7007"
+        }
+      },
+      {
+        "id": 8,
+        "image": "https://i.ibb.co/FYLQYCM/9.jpg",
+        "title": "Secluded Forest Retreat",
+        "segment": "Residential",
+        "description": "Unique hideaway surrounded by forest, featuring a cozy cabin with modern amenities. Discover peace and seclusion at our forest retreat, tucked away amidst lush greenery. This tranquil hideaway features rustic cabins, winding trails, and serene nature views. Unplug from technology and reconnect with the outdoors through hiking, birdwatching, or simply unwinding on a hammock. Ideal for nature lovers and those seeking solitude, this retreat offers a chance to rejuvenate mind, body, and soul in the midst of nature's beauty.",
+        "price": "$400,000",
+        "status": "For Sale",
+        "area": "1300 Sq Ft",
+        "location": "Forest Grove, Serenity Woods",
+        "facilities": ["2 Bedrooms", "Outdoor Jacuzzi", "Hiking Trails"],
+        "button": {
+          "text": "View Property",
+          "link": "https://example.com/properties/8008"
+        }
+      }
+    ]

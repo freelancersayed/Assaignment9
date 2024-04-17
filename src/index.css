@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.secton{
+    background-image: url('/slider/1.jpg')
+};
+
+.proparty{
+
+    /* margin-top: 200px;
+    display: none; */
+}
+
+.pro-div:hover .proparty {
+    /* margin-top: 0px;
+    display: block; */
+    /* transform: translateY(12); */
+};
+
+.image-zoom-container {
+    position: relative;
+    overflow: hidden;
+    width: 300px; /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+  };
+  
+  .zoomed-image {
+    transition: transform 0.3s ease;
+    transform: scale(1.2); /* Increase image scale on hover */
+  };
+
+.active{
+    color:red;
+  }
+
+  .card-div :hover .detailBtn{
+    width: 100%;
+  }

@@ -1,0 +1,11 @@
+.image-zoom-container {
+    position: relative;
+    overflow: hidden;
+    width: 300px; /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+  }
+  
+  .zoomed-image {
+    transition: transform 0.3s ease;
+    transform: scale(1.2); /* Increase image scale on hover */
+  }
